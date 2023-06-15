@@ -2,9 +2,9 @@ package ec.edu.insteclrg.persistence;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import ec.edu.insteclrg.domain.Product;
+import ec.edu.insteclrg.domain.Servicio;
 
 @Repository
-public interface ProductRepository extends JpaRepository<Product, Long>{
+public interface ServicioRepository extends JpaRepository<Servicio, Long> {
 	
 }

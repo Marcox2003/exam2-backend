@@ -1,6 +1,6 @@
 package ec.edu.insteclrg.dto;
 
-import java.io.Serializable;
+import java.io.Serializable; 
 
 import lombok.Data;
 
